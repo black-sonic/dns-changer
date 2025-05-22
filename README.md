@@ -29,32 +29,32 @@ dns-changer.bat
 
 
 ✅ Supported DNS Providers
-•	Google DNS
-•	Cloudflare DNS
-•	OpenDNS
-•	Quad9
-•	AdGuard DNS
-•	CleanBrowsing
-•	Yandex DNS
-•	NextDNS
-•	OpenNIC
-•	Level3 DNS
-•	Verisign DNS
-•	SafeDNS
-•	DNS.Watch
-•	Comodo DNS
-•	Neustar DNS
-•	Alternate DNS
-•	Smart DNS Proxy
-•	Freenom World
-•	Kickass DNS
-•	Dandelion DNS
-•	UncensoredDNS
-•	DNS Advantage
-•	Hurricane Electric DNS
-•	CIRA Canadian Shield
-•	Norton ConnectSafe (retired)
-•	And more...
+• Google DNS
+• Cloudflare DNS
+• OpenDNS
+• Quad9
+• AdGuard DNS
+• CleanBrowsing
+• Yandex DNS
+• NextDNS
+• OpenNIC
+• Level3 DNS
+• Verisign DNS
+• SafeDNS
+• DNS.Watch
+• Comodo DNS
+• Neustar DNS
+• Alternate DNS
+• Smart DNS Proxy
+• Freenom World
+• Kickass DNS
+• Dandelion DNS
+• UncensoredDNS
+• DNS Advantage
+• Hurricane Electric DNS
+• CIRA Canadian Shield
+• Norton ConnectSafe (retired)
+• And more...
 
 
 🔄 Reset DNS
@@ -63,6 +63,4 @@ Both scripts include an option to reset your DNS settings back to automatic (DHC
 📝 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
+
